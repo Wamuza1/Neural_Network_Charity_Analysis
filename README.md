@@ -80,7 +80,8 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 
 ![attempt1](https://user-images.githubusercontent.com/92646311/185833859-0b6370d7-2e32-4a29-ac1b-ebc204585851.png)
 
-![attemp1_accuracy](https://user-images.githubusercontent.com/92646311/185833879-ec1dc527-5633-43e3-ac83-0ef23fa34602.png)
+
+![attemp1_accuracy](https://user-images.githubusercontent.com/92646311/185834263-a666a33e-2fb8-4fc6-ba42-85e3bb679860.png)
 
 ### Attempt2
 
@@ -96,7 +97,7 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 
 # Summary
 
-we performed three attempts to re_evaluate, and took various steps to optmize the model accuracy score. By observing the accuracy score for each attempt attemp1 would be the first recomendation with the accuracy of 72 and loss campared to other attempts.
+we performed three attempts to re_evaluate, and took various steps to optmize the model accuracy score. By observing the each attempt accuracy score, attemp1 would be the first recomendation with the accuracy of 72.7% and less loss compared to other attempts.
 
 
 
