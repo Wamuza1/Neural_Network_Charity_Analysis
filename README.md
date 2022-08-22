@@ -30,7 +30,7 @@ From Alphabet Soup’s business team, Beks received a CSV containing more than 3
 
 ## What we're Creating
 
-This new assignment consists of three technical analysis deliverables and a written report. You will submit the following:
+This new assignment consists of three technical analysis deliverables and a written report.We submited the following:
 
 **Deliverable 1: Preprocessing Data for a Neural Network Model**
 
@@ -81,7 +81,8 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 ![attempt1](https://user-images.githubusercontent.com/92646311/185833859-0b6370d7-2e32-4a29-ac1b-ebc204585851.png)
 
 
-![attemp1_accuracy](https://user-images.githubusercontent.com/92646311/185834263-a666a33e-2fb8-4fc6-ba42-85e3bb679860.png)
+![attemp1_accuracy](https://user-images.githubusercontent.com/92646311/185834811-ac88e80e-a8cd-4825-812c-da43645e774d.png)
+
 
 ### Attempt2
 
