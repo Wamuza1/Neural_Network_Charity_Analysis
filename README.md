@@ -63,6 +63,16 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 
 -Adding or reducing the number of epochs to the training regimen.
 
+**The following variables are removed from input and data.
+
+-NAME
+
+-EIN
+
+-USE_CASE
+
+-SPECIAL_CONSIDERATIONS
+
 ### Attempt1
 
 
@@ -71,4 +81,8 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 ### Attempt3
 
 # Summary
+
+we performed three attempts to re_evaluate, and took various steps to optmize the model accuracy score. By observing the accuracy score for each attempt attemp1 would be the first recomendation with the accuracy of 72 and loss campared to other attempts.
+
+
 
