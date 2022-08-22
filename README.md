@@ -36,12 +36,15 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 Using Pandas and the Scikit-Learn’s StandardScaler(), we preprocess the dataset in order to compile, train, and evaluate the neural network model later in Deliverable 2.
 
+![df_head](https://user-images.githubusercontent.com/92646311/185833971-e4651275-2f32-4681-9b8f-5852cdec9e93.png)
 
-
+![split_scale](https://user-images.githubusercontent.com/92646311/185834021-726f4e52-e433-4640-9865-b0c4763025ee.png)
 
 **Deliverable 2: Compile, Train, and Evaluate the Model**
 
 Using our knowledge of TensorFlow, we designed a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization will be successful based on the features in the dataset. We will need to think about how many inputs there are before determining the number of neurons and layers in the model. Once we've completed that step, we compiled, trained, and evaluated our binary classification model to calculate the model’s loss and accuracy.
+
+![model_accuracy](https://user-images.githubusercontent.com/92646311/185833997-5992eb40-00fd-41e3-a65b-2c8ddc7f4414.png)
 
 **Deliverable 3: Optimize the Model**
 
@@ -63,7 +66,7 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 
 -Adding or reducing the number of epochs to the training regimen.
 
-**The following variables are removed from input and data.
+**The following variables are removed from input and data.**
 
 -NAME
 
@@ -75,10 +78,21 @@ Using our knowledge of TensorFlow, we designed a neural network, or deep learnin
 
 ### Attempt1
 
+![attempt1](https://user-images.githubusercontent.com/92646311/185833859-0b6370d7-2e32-4a29-ac1b-ebc204585851.png)
+
+![attemp1_accuracy](https://user-images.githubusercontent.com/92646311/185833879-ec1dc527-5633-43e3-ac83-0ef23fa34602.png)
 
 ### Attempt2
 
+![attempt2](https://user-images.githubusercontent.com/92646311/185833885-00221205-3696-4a39-84cc-e49ee41c0761.png)
+
+![attempt2_epoch](https://user-images.githubusercontent.com/92646311/185833897-9bead297-b09a-41bd-b35e-0d0433f22268.png)
+
 ### Attempt3
+
+![attempt3](https://user-images.githubusercontent.com/92646311/185833944-ae4317d3-592b-4702-b0a6-8d1f3c811082.png)
+
+![attempt3_epoch](https://user-images.githubusercontent.com/92646311/185833952-4ba957c3-9c6f-4274-a249-8e60fd32b5e2.png)
 
 # Summary
 
